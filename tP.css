@@ -1,0 +1,55 @@
+html,body{
+  font-family: 'PT Serif',sans-serif;
+  min-width: 260px;
+  color:#1a1a1a;
+  text-align: center;
+}
+#main
+{
+  margin:30px auto;
+  padding:15px;
+  border-radius: 5px;
+  background: #eee;
+
+
+}
+img{
+  max-width: 100%;
+  display:block;
+  height: auto;
+  margin: auto;
+}
+#img-div
+{
+  margin: -5px;
+
+  width: 100%;
+  border: 5px solid white;
+  background: white;
+}
+#img-caption
+{
+  margin: 15px;
+}
+#headline
+{
+  margin-top: 15px;
+  text-align: left;
+}
+ul{
+  max-width: 550px;
+  margin: 0 auto;
+  text-align: justify;
+}
+li{
+  margin: 10px;
+}
+blockquote
+{
+  font-style: italic;
+}
+.quoter
+{
+  opacity: 0.7;
+  text-align: right;
+}
